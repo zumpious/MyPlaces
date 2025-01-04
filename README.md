@@ -1,3 +1,8 @@
+# Deprication Warning
+This repo was created in my 3rd semester of my bachelors and has since not been updated. The code in here is deprecated. Make sure to update relevant depencies when reusing this repository. 
+
+---
+
 # What is MyPlaces?
 MyPlaces provides an mobile-platform created in react native, aim to allow its user to save, document and share their favorite playes to be. Consequently people are able to create and provide geographical networks of beautiful places, bars and so on. It helps people to chose what to do today or finding the best fitting place to be, for whatever is planned today.
 
